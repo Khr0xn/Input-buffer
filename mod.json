@@ -1,0 +1,14 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"version": "v0.1.0",
+	"id": "khr0xn.inputbuffer",
+	"name": "Input Buffer (test)",
+	"developer": "Khr0xn",
+	"description": "Buffer de clicks por ticks con etapas. SOLO PARA PRUEBAS: es un cheat."
+}
